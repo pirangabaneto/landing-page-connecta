@@ -7,6 +7,11 @@ Projeto de uma landing page para um dentista, utilizando **React** e **Tailwind 
 - **React** - Biblioteca JavaScript para construção da interface do usuário.
 - **Tailwind CSS** - Framework CSS para estilização rápida e responsiva.
 
+## Prototipação
+
+- Realizada no https://www.figma.com/
+- Pode ser encontrada em public/prototipo.pdf
+
 ## Funcionalidades
 
 - Seções informativas sobre serviços odontológicos.
